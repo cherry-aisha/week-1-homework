@@ -48,6 +48,6 @@ Side bar easier to identify with it's child elements.
 ```
 Alt arttributes added to links.
 ```
-![screenshot.png](.https://github.com/cherry-aisha/week-1-homework/blob/main/assets/images/screenshot.png)
+![screenshot.png](https://github.com/cherry-aisha/week-1-homework/blob/main/assets/images/screenshot.png)
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
