@@ -23,13 +23,15 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-
 ## Features
 ```
+
 ### HTML updated for SEO optimisation, accesibility and to use semantic HTML.
 Header section updated to include Meta.
 Header links to CSS styling sheet and
 includes relevant title for webpage.
+
+```
 
 ### CSS updated to streamline styling.
 Multiple ID tags replaced with element
